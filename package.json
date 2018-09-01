@@ -1,0 +1,31 @@
+{
+  "name": "files-api",
+  "version": "1.0.0",
+  "description": "Api for managing files",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirdotk/files-api.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "node.js",
+    "api"
+  ],
+  "author": "Vladimir K.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladimirdotk/files-api/issues"
+  },
+  "homepage": "https://github.com/vladimirdotk/files-api#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
